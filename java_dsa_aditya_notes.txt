@@ -1,0 +1,55 @@
+To copy repo into our system
+$git clone repolink
+$git clone link
+the above command copies the given repo into our computer. the copy of the repo in the server(GitHub) cam be called as remote repo amd the 
+
+
+To push content into the repo. That is to copy the content from local repo to remote repo
+
+1. git clone https://pat@link
+
+To add path
+git add C:/lerarning/java_dsa
+git add . (. means no updated fil from curr)
+
+2. Ask the git to create a secured object in which all the files and folders to be pushed are copied.
+
+$ git commit -m "java dsa notes added"
+
+3. push (upload)
+
+$ git push (Always pushes to main branch)
+$ git push origin main  (main is the branch)
+
+
+To know the status
+
+git status
+
+git pull origin
+
+
+
+-----------------------------------------------------------------------
+
+fie - new - project - java project
+in the dialogue box
+de-select the module.java checkbox
+enter project name("practice") , click finish
+
+now in the explorer , expand the project folder
+now right click src folder - create - new package
+give the package name "day1"
+
+right click 
+
+
+
+
+
+
+
+ctrl + g --> 52
+home - start 
+
+
